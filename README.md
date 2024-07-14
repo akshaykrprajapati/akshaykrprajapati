@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshaykrprajapati
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
